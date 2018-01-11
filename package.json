@@ -1,11 +1,25 @@
 {
   "name": "wordpress-scripts",
   "version": "0.0.1",
-  "description": "",
+  "description": "WordPress Scripts — Work In Progress",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "AhmadAwais",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadawais/wordpress-scripts.git"
+  },
+  "keywords": [
+    "wordpress",
+    "scripts",
+    "wp",
+    "scripts"
+  ],
+  "bugs": {
+    "url": "https://github.com/ahmadawais/wordpress-scripts/issues"
+  },
+  "homepage": "https://github.com/ahmadawais/wordpress-scripts#readme"
 }
