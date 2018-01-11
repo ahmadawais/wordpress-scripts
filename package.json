@@ -1,6 +1,6 @@
 {
   "name": "wordpress-scripts",
-  "version": "0.0.1-0",
+  "version": "0.0.1-1",
   "description": "WordPress Scripts — Work In Progress",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/ahmadawais/wordpress-scripts.git"
   },
-  "keywords": ["wordpress", "scripts", "wp", "scripts"],
+  "keywords": [
+    "wordpress",
+    "scripts",
+    "wp",
+    "scripts"
+  ],
   "bugs": {
     "url": "https://github.com/ahmadawais/wordpress-scripts/issues"
   },
