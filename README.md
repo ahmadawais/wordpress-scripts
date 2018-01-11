@@ -1,1 +1,3 @@
-# wordpress-scripts
+# WordPress Scripts
+
+Work in progress.
